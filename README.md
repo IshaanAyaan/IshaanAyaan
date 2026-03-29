@@ -1,36 +1,27 @@
-<div align="center">
+# Ishaan Ranjan
 
-# Hi, I'm Ishaan 👋
+Co-founder at Luxen. Incoming Georgia Tech CS. Building reliable computer-use agents, automation systems, and applied ML for policy.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ishaanranjan.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishaanranjan.com)
-[![Location](https://img.shields.io/badge/Peoria,_AZ-orange?style=for-the-badge)](https://maps.google.com/?q=Peoria,AZ)
+- Co-founded Luxen, an applied AI lab; shipped products used by 5K+ active users and backed by $48K+ in grants and startup support.
+- KEYS research intern at the University of Arizona, using Python and R for aging-related analysis and presenting research to 800+ attendees.
+- Built Debatica, an AI-assisted debate prep product that reached 2K+ users; included here as a product and distribution case study.
 
-</div>
+## Selected Projects
 
----
+- [ArdusRpa](https://github.com/IshaanAyaan/ArdusRpa) — Computer-use automation tooling for reliable execution across browser workflows.
+- [alcohol-policy-evaluator](https://github.com/IshaanAyaan/alcohol-policy-evaluator) — Policy analysis and ML pipeline modeling how state alcohol policy relates to youth drinking and traffic fatalities.
+- [GreenhouseAgent](https://github.com/IshaanAyaan/GreenhouseAgent) — AI agent for greenhouse monitoring, decision support, and plant-growth optimization.
+- [deep-learning-alcohol-epigenetics](https://github.com/IshaanAyaan/deep-learning-alcohol-epigenetics) — DNA methylation ML pipeline for modeling alcohol-use outcomes and biological aging signals.
+- [Debatica](https://github.com/IshaanAyaan/debaticav1) *(case study)* — AI-assisted debate prep workflow that reached 2K+ users and serves as an early product and distribution case study.
 
-### About Me
+## Current Focus
 
-I'm passionate about **applied AI** and exploring how it can be leveraged to solve **real-world problems**. I believe in building technology that makes a meaningful impact.
+- Reliable computer-use agents
+- Automation systems with evaluation, failure handling, and repeatability
+- Applied ML for policy and social systems
 
----
+## Links
 
-### Currently Researching
-
-| Research Area | Description |
-|---------------|-------------|
-|  **Parameter Optimization** | Optimizing parameters for computer-use agents |
-| **AI & Behavioral Studies** | Using AI to study alcohol policy and behavioral effects |
-| **Route Evaluation** | AI-driven evaluation of shadow-maxxing routes |
-
----
-
-### 🚀 Let's Connect
-
-<div align="center">
-
-**Check out my work and projects:**
-
-[![Website](https://img.shields.io/badge/Visit_My_Portfolio-ishaanranjan.com-4285F4?style=for-the-badge)](https://ishaanranjan.com)
-
-</div>
+- Website: [ishaanranjan.com](https://ishaanranjan.com)
+- LinkedIn: [ishaan-ranjan-86a41a217](https://www.linkedin.com/in/ishaan-ranjan-86a41a217)
+- Email: [ishaanranjan15@gmail.com](mailto:ishaanranjan15@gmail.com)
