@@ -6,7 +6,7 @@ Current focus is making agent systems more usable and more reliable. I care abou
 
 ## Selected Projects
 
-- [Agent Tree](https://github.com/LuxenAI/agent-tree) is a Luxen desktop workspace for managing master and subagent sessions with shared context and live runtime switching. My implementation work is reflected in the public commit history.
+- [Agent Tree](https://github.com/IshaanAyaan/agent-tree) is a Luxen desktop workspace for managing master and subagent sessions with shared context and live runtime switching. The canonical repo lives at `LuxenAI/agent-tree`, and my implementation work is reflected in the public commit history.
 - [PRISM](https://github.com/IshaanAyaan/prism-policy-ai) is a reproducible benchmark and analysis toolkit for policy text classification, causal audit, and crash-risk forecasting across U.S. states.
 - [Debatica](https://github.com/IshaanAyaan/debaticav1) is an AI-assisted debate workspace for research, evidence extraction, rebuttals, and speech review.
 - [GreenhouseAgent](https://github.com/IshaanAyaan/GreenhouseAgent) is a greenhouse monitoring and control stack with sensor ingestion, actuator commands, weather context, and model-driven recommendations.
