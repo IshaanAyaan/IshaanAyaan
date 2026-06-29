@@ -2,7 +2,19 @@
 
 Co-founder at LuxenAI. Georgia Tech CS. I build agent tooling, workflow automation, and applied AI systems.
 
-Current focus is making agent systems more usable and more reliable.
+Current focus is fine-tuning small language models to make them more parameter efficient.
+
+## At a Glance
+
+- Co-founder at LuxenAI
+- Computer Science at Georgia Tech
+- Interested in small language models, agent systems, workflow automation, and applied AI
+- Reach me at [ishaanranjan15@gmail.com](mailto:ishaanranjan15@gmail.com) or [iranjan9@gatech.edu](mailto:iranjan9@gatech.edu)
+
+## Newest Projects
+
+- [SLM Harness](https://github.com/LuxenAI/slmharness) is a LuxenAI orchestration layer for small language models focused on long-horizon task efficiency.
+- [SchoolPulse AI](https://github.com/IshaanAyaan/SchoolPulse-AI) is a suite of edge-AI tools and a dashboard for helping schools reduce water, food, and energy waste.
 
 ## Selected Projects
 
@@ -14,12 +26,12 @@ Current focus is making agent systems more usable and more reliable.
 
 ## Current Focus
 
-- Agent tooling for multi-agent workflows
-- Automation systems that can run repeatably
-- Applied AI projects where product design matters
+- Fine-tuning small language models for better parameter efficiency
+- Building tooling for small language model orchestration and evaluation
+- Applied AI systems where product design matters
 
 ## Links
 
 - Website [ishaanranjan.com](https://ishaanranjan.com)
 - LinkedIn [ishaan-ranjan-86a41a217](https://www.linkedin.com/in/ishaan-ranjan-86a41a217)
-- Email [ishaanranjan15@gmail.com](mailto:ishaanranjan15@gmail.com)
+- Email [ishaanranjan15@gmail.com](mailto:ishaanranjan15@gmail.com) and [iranjan9@gatech.edu](mailto:iranjan9@gatech.edu)
