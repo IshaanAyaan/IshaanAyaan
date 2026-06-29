@@ -4,14 +4,10 @@ Co-founder at LuxenAI. Georgia Tech CS. I build agent tooling, workflow automati
 
 Current focus is fine-tuning small language models to make them more parameter efficient.
 
-
-## Newest Projects
+## Projects
 
 - [SLM Harness](https://github.com/LuxenAI/slmharness) is a LuxenAI orchestration layer for small language models focused on long-horizon task efficiency.
 - [SchoolPulse AI](https://github.com/IshaanAyaan/SchoolPulse-AI) is a suite of edge-AI tools and a dashboard for helping schools reduce water, food, and energy waste.
-
-## Selected Projects
-
 - [Agent Tree](https://github.com/IshaanAyaan/agent-tree) is a Luxen desktop workspace for managing master and subagent sessions with shared context and live runtime switching.
 - [PRISM](https://github.com/IshaanAyaan/prism-policy-ai) is a reproducible benchmark and analysis toolkit for policy text classification, causal audit, and crash-risk forecasting across U.S. states.
 - [Debatica](https://github.com/IshaanAyaan/debaticav2) is an AI-assisted debate workspace for research, evidence extraction, rebuttals, and speech review.
@@ -21,8 +17,8 @@ Current focus is fine-tuning small language models to make them more parameter e
 ## Current Focus
 
 - Fine-tuning small language models for better parameter efficiency
-- Building tooling for small language model orchestration and evaluation
-- Applied AI systems where product design matters
+- Building agent tooling and workflow automation systems
+- Applied AI projects where product design matters
 
 ## Links
 
