@@ -4,12 +4,6 @@ Co-founder at LuxenAI. Georgia Tech CS. I build agent tooling, workflow automati
 
 Current focus is fine-tuning small language models to make them more parameter efficient.
 
-## At a Glance
-
-- Co-founder at LuxenAI
-- Computer Science at Georgia Tech
-- Interested in small language models, agent systems, workflow automation, and applied AI
-- Reach me at [ishaanranjan15@gmail.com](mailto:ishaanranjan15@gmail.com) or [iranjan9@gatech.edu](mailto:iranjan9@gatech.edu)
 
 ## Newest Projects
 
