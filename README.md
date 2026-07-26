@@ -15,7 +15,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/ishaan-ranjan-86a41a217">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="mailto:ishaanranjan15@gmail.com">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ishaanranjan15@gmail.com">Email</a>
 </p>
 
 ## Selected work
@@ -60,7 +60,7 @@
 [Debatica](https://github.com/IshaanAyaan/debaticav2) ·
 [SchoolPulse AI](https://github.com/IshaanAyaan/SchoolPulse-AI) ·
 [A.C.R.E.](https://github.com/IshaanAyaan/GreenhouseAgent) ·
-S.A.B.E.R.
+[S.A.B.E.R.](https://doi.org/10.31224/4876)
 
 <p align="center">
   <sub>Incoming Georgia Tech CS · Peoria, Arizona</sub>
