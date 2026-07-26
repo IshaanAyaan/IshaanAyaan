@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/ascii-flow.gif" width="100%" alt="Animated ASCII flow field surrounding the name Ishaan Ranjan" />
+  <a href="https://ishaanranjan.com">
+    <img src="./assets/ascii-flow.gif" width="100%" alt="Animated ASCII flow field surrounding the name Ishaan Ranjan; open Ishaan's website" />
+  </a>
 </p>
 
 <p align="center">
