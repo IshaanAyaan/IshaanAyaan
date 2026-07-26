@@ -1,27 +1,65 @@
-# Ishaan Ranjan
+<p align="center">
+  <img src="./assets/ascii-flow.gif" width="100%" alt="Animated ASCII flow field surrounding the name Ishaan Ranjan" />
+</p>
 
-Co-founder at LuxenAI. Georgia Tech CS. I build agent tooling, workflow automation, and applied AI systems.
+<p align="center">
+  I build practical AI systems across research, developer tools, and products.
+  <br />
+  <sub>Currently: Luxen AI · Georgia Tech CyFI · Incoming Georgia Tech CS</sub>
+</p>
 
-Current focus is fine-tuning small language models to make them more parameter efficient.
+<p align="center">
+  <a href="https://ishaanranjan.com">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ishaan-ranjan-86a41a217">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:ishaanranjan15@gmail.com">Email</a>
+</p>
 
-## Projects
+## Selected work
 
-- [SLM Harness](https://github.com/LuxenAI/slmharness) is a LuxenAI orchestration layer for small language models focused on long-horizon task efficiency.
-- [SchoolPulse AI](https://github.com/IshaanAyaan/SchoolPulse-AI) is a suite of edge-AI tools and a dashboard for helping schools reduce water, food, and energy waste.
-- [Agent Tree](https://github.com/IshaanAyaan/agent-tree) is a Luxen desktop workspace for managing master and subagent sessions with shared context and live runtime switching.
-- [PRISM](https://github.com/IshaanAyaan/prism-policy-ai) is a reproducible benchmark and analysis toolkit for policy text classification, causal audit, and crash-risk forecasting across U.S. states.
-- [Debatica](https://github.com/IshaanAyaan/debaticav2) is an AI-assisted debate workspace for research, evidence extraction, rebuttals, and speech review.
-- [GreenhouseAgent](https://github.com/IshaanAyaan/GreenhouseAgent) is a greenhouse monitoring and control stack with sensor ingestion, actuator commands, weather context, and model-driven recommendations, built at the MIT Hackathon.
-- [YConstruction](https://github.com/IshaanAyaan/YConstruction) was built and pitched to Y Combinator at the YC x Google DeepMind Hackathon: a voice-first iPhone app for on-device construction defect reporting tied to IFC/BIM elements and a Blender/Bonsai review workflow.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/IshaanAyaan/slm-agents">Small-model agent research</a></h3>
+      <p>A controlled 200-task study reached 94.5% success with a fine-tuned 3B specialist versus 95.5% for a 72B baseline, at 84.8% lower cost per successful task.</p>
+      <sub><a href="https://github.com/IshaanAyaan/slm-agents">Study and frozen results</a> · <a href="https://github.com/LuxenAI/regimen">Later Regimen integration work</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/IshaanAyaan/YConstruction">YConstruction</a></h3>
+      <p>A voice-first iPhone app that turns on-device transcription and photos into IFC-grounded construction defects, then syncs BCF issues for architect review.</p>
+      <sub>Selected for a live pitch to YC investors at the YC × Google DeepMind hackathon · SwiftUI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LuxenAI/arbor">Arbor</a></h3>
+      <p>A local-first desktop workspace for managing master and subagent sessions, shared context, runtime switching, and human review without requiring a hosted backend.</p>
+      <sub>Electron · TypeScript · Multi-agent systems</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/IshaanAyaan/prism-policy-dashboard">PRISM</a></h3>
+      <p>A research system for policy classification, causal audit, and crash-risk forecasting across a 51-state alcohol-policy panel.</p>
+      <sub><a href="https://prism-policy-dashboard.vercel.app">Interactive dashboard</a> · Preprint · Causal inference</sub>
+    </td>
+  </tr>
+</table>
 
-## Current Focus
+## Current and recent experience
 
-- Fine-tuning small language models for better parameter efficiency
-- Building agent tooling and workflow automation systems
-- Applied AI projects where product design matters
+- **Luxen AI — Co-Founder & Engineering Lead** · Dec 2023–present. Building applied-AI products and developer tools from user discovery through architecture, evaluation, and deployment.
 
-## Links
+- **Georgia Tech CyFI — Undergraduate Researcher** · Jun 2026–present. Reproduced the supported NVIDIA Nemotron Elastic 12B parent and 9B/6B subnetworks on an A100, documenting configurations, width slicing, and current evaluation limits.
 
-- Website [ishaanranjan.com](https://ishaanranjan.com)
-- LinkedIn [ishaan-ranjan-86a41a217](https://www.linkedin.com/in/ishaan-ranjan-86a41a217)
-- Email [ishaanranjan15@gmail.com](mailto:ishaanranjan15@gmail.com) and [iranjan9@gatech.edu](mailto:iranjan9@gatech.edu)
+- **University of Arizona Precision Aging Network — Research Intern** · Summer 2025. Analyzed biological-aging measures in R and Python, reporting null findings and confounding constraints rather than forcing a preferred result.
+
+## More work
+
+[Debatica](https://github.com/IshaanAyaan/debaticav2) ·
+[SchoolPulse AI](https://github.com/IshaanAyaan/SchoolPulse-AI) ·
+[A.C.R.E.](https://github.com/IshaanAyaan/GreenhouseAgent) ·
+S.A.B.E.R.
+
+<p align="center">
+  <sub>Incoming Georgia Tech CS · Peoria, Arizona</sub>
+</p>
