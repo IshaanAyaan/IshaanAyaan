@@ -1,67 +1,18 @@
-<p align="center">
-  <a href="https://ishaanranjan.com">
-    <img src="./assets/ascii-flow.gif" width="100%" alt="Animated ASCII flow field surrounding the name Ishaan Ranjan; open Ishaan's website" />
-  </a>
-</p>
+<a href="https://ishaanranjan.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <img src="./assets/banner-light.svg" width="100%" alt="Ishaan Ranjan. Very bullish on AI, but definitely concerned with safety. An animated grid shows 6B, 9B and 12B models nested inside one set of weights.">
+  </picture>
+</a>
 
-<p align="center">
-  I build practical AI systems across research, developer tools, and products.
-  <br />
-  <sub>Currently: Luxen AI · Georgia Tech CyFI · Incoming Georgia Tech CS</sub>
-</p>
+I study CS at Georgia Tech and do research under the [CyFI Lab](https://cyfi.ece.gatech.edu/). Right now that's NVIDIA's Nemotron Elastic, where one set of weights holds three models, and working out which smaller cuts of it are worth running. I also co-founded [Luxen AI](https://luxenai.org).
 
-<p align="center">
-  <a href="https://ishaanranjan.com">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ishaan-ranjan-86a41a217">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ishaanranjan15@gmail.com">Email</a>
-</p>
+### Worth a look
 
-## Selected work
+- **[slm-agents](https://github.com/IshaanAyaan/slm-agents).** A 3B model fine-tuned for one narrow role, with a harness built around it, hit 94.5% on 200 held-out code-navigation tasks. A 72B baseline hit 95.5%. Ours cost 84.8% less per solved task. With Ganesh Talluri.
+- **[Arbor](https://github.com/LuxenAI/arbor).** A desktop workspace for running live multi-agent coding sessions. It passed 1,250 users after its January 2026 release.
+- **[Regimen](https://github.com/LuxenAI/regimen).** Splits a long task into parts and hands each one to a specialized small model.
+- **[YConstruction](https://github.com/IshaanAyaan/YConstruction).** Report a construction defect by talking to your iPhone. Whisper and Gemma 3n run on the phone. It got picked to pitch live to YC investors.
+- **[PRISM](https://github.com/IshaanAyaan/prism-policy-dashboard).** An atlas of what state alcohol-policy changes did, across 50 states and DC from 2000 to 2022. There's a [dashboard](https://prism-policy-dashboard.vercel.app) and an [SSRN paper](https://doi.org/10.2139/ssrn.6756239).
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/IshaanAyaan/slm-agents">Small-model agent research</a></h3>
-      <p>A controlled 200-task study reached 94.5% success with a fine-tuned 3B specialist versus 95.5% for a 72B baseline, at 84.8% lower cost per successful task.</p>
-      <sub><a href="https://github.com/IshaanAyaan/slm-agents">Study and frozen results</a> · <a href="https://github.com/LuxenAI/regimen">Later Regimen integration work</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/IshaanAyaan/YConstruction">YConstruction</a></h3>
-      <p>A voice-first iPhone app that turns on-device transcription and photos into IFC-grounded construction defects, then syncs BCF issues for architect review.</p>
-      <sub>Selected for a live pitch to YC investors at the YC × Google DeepMind hackathon · SwiftUI</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/LuxenAI/arbor">Arbor</a></h3>
-      <p>A local-first desktop workspace for managing master and subagent sessions, shared context, runtime switching, and human review without requiring a hosted backend.</p>
-      <sub>Electron · TypeScript · Multi-agent systems</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/IshaanAyaan/prism-policy-dashboard">PRISM</a></h3>
-      <p>A research system for policy classification, causal audit, and crash-risk forecasting across a 51-state alcohol-policy panel.</p>
-      <sub><a href="https://prism-policy-dashboard.vercel.app">Interactive dashboard</a> · Preprint · Causal inference</sub>
-    </td>
-  </tr>
-</table>
-
-## Current and recent experience
-
-- **Luxen AI — Co-Founder & Engineering Lead** · Dec 2023–present. Building applied-AI products and developer tools from user discovery through architecture, evaluation, and deployment.
-
-- **Georgia Tech CyFI — Undergraduate Researcher** · Jun 2026–present. Reproduced the supported NVIDIA Nemotron Elastic 12B parent and 9B/6B subnetworks on an A100, documenting configurations, width slicing, and current evaluation limits.
-
-- **University of Arizona Precision Aging Network — Research Intern** · Summer 2025. Analyzed biological-aging measures in R and Python, reporting null findings and confounding constraints rather than forcing a preferred result.
-
-## More work
-
-[Debatica](https://github.com/IshaanAyaan/debaticav2) ·
-[SchoolPulse AI](https://github.com/IshaanAyaan/SchoolPulse-AI) ·
-[A.C.R.E.](https://github.com/IshaanAyaan/GreenhouseAgent) ·
-[S.A.B.E.R.](https://doi.org/10.31224/4876)
-
-<p align="center">
-  <sub>Incoming Georgia Tech CS · Peoria, Arizona</sub>
-</p>
+More at [ishaanranjan.com](https://ishaanranjan.com), and I'm on [X](https://x.com/ishaanranjan15) and [LessWrong](https://www.lesswrong.com/users/ishaan-ranjan).
