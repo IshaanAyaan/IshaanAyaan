@@ -10,6 +10,7 @@ I study CS at Georgia Tech and do research under the [CyFI Lab](https://cyfi.ece
 ### Worth a look
 
 - **[slm-agents](https://github.com/IshaanAyaan/slm-agents).** A 3B model fine-tuned for one narrow role, with a harness built around it, hit 94.5% on 200 held-out code-navigation tasks. A 72B baseline hit 95.5%. Ours cost 84.8% less per solved task. With Ganesh Talluri.
+- **[Hardware Buddy](https://github.com/jamesEmerson112/Naive-Nous-YC-Hackathon).** Robots that repair themselves, built in two days at YC's Naïve hackathon. With no internet, a 3.3 GB local model rolled back a bad firmware flash on a real robot arm and traced the bug to one line. I built the arm healer and the benchmark that picked the model.
 - **[Arbor](https://github.com/LuxenAI/arbor).** A desktop workspace for running live multi-agent coding sessions. It passed 1,250 users after its January 2026 release.
 - **[Regimen](https://github.com/LuxenAI/regimen).** Splits a long task into parts and hands each one to a specialized small model.
 - **[YConstruction](https://github.com/IshaanAyaan/YConstruction).** Report a construction defect by talking to your iPhone. Whisper and Gemma 3n run on the phone. It got picked to pitch live to YC investors.
